@@ -20,11 +20,11 @@
             "description": "Enter your Telegram API Hash.",
             "required": true
         },
-        "BOT_TOKEN": {7542540450:AAGF9w_rsn-2ZtsWVyJl3WzGx9DARcR-cP4
+        "BOT_TOKEN": {7684716041:AAEHXKvB73KUovmEYSMmYkkcyi98C2FpDck
             "description": "Enter your Telegram Bot Token.",
             "required": true
         },
-        "OWNER_ID": {6818594183
+        "OWNER_ID": {7385491627
             "description": "User ID of Bot Owner",
             "required": true
         }
