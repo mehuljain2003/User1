@@ -333,7 +333,7 @@ async def txt_handler(bot: Client, m: Message):
     x = await input.download()
     await input.delete(True)
     file_name, ext = os.path.splitext(os.path.basename(x))
-    credit = f"𝙎𝘼𝙄𝙉𝙄 𝘽𝙊𝙏𝙎"
+    credit = f"MJ TEAM"
     pdf_count = 0
     img_count = 0
     zip_count = 0
@@ -415,9 +415,9 @@ async def txt_handler(bot: Client, m: Message):
     raw_text3 = input3.text
     await input3.delete(True)
     # Default credit message with link
-    credit = "️[𝙎𝘼𝙄𝙉𝙄 𝘽𝙊𝙏𝙎 🕊️](https://t.me/+MdZ2996M2G43MWFl)"
+    credit = "️[MJ TEAM 🕊️](https://t.me/+DO2UXz8UpLlhMTRl)"
     if raw_text3 == '1':
-        CR = '[𝙎𝘼𝙞𝙉𝙄 𝘽𝙊𝙏𝙎 🕊️](https://t.me/+MdZ2996M2G43MWFl)'
+        CR = '[MJ TEAM 🕊️](https://t.me/+DO2UXz8UpLlhMTRl)'
     elif raw_text3:
         try:
             text, link = raw_text3.split(',')
@@ -729,7 +729,7 @@ async def txt_handler(bot: Client, m: Message):
     x = await input.download()
     await input.delete(True)
     file_name, ext = os.path.splitext(os.path.basename(x))
-    credit = f"𝙎𝘼𝙄𝙉𝙄 𝘽𝙊𝙏𝙎"
+    credit = f"MJ TEAM"
     pdf_count = 0
     img_count = 0
     zip_count = 0
@@ -781,9 +781,9 @@ async def txt_handler(bot: Client, m: Message):
     raw_text3 = input3.text
     await input3.delete(True)
     # Default credit message with link
-    credit = "️[𝙎𝘼𝙄𝙉𝙄 𝘽𝙊𝙏𝙎 🕊️](https://t.me/+MdZ2996M2G43MWFl)"
+    credit = "️[MJ TEAM](https://t.me/+DO2UXz8UpLlhMTRl)"
     if raw_text3 == '1':
-        CR = '[𝙎𝘼𝙞𝙉𝙄 𝘽𝙊𝙏𝙎 🕊️](https://t.me/+MdZ2996M2G43MWFl)'
+        CR = '[MJ TEAM](https://t.me/+DO2UXz8UpLlhMTRl)'
     elif raw_text3:
         try:
             text, link = raw_text3.split(',')
